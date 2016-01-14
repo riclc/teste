@@ -15,6 +15,6 @@ Depois, precisamos fazer mais coisas em:
  * TypeScript
  * Alguma outra linguagem...
 
-Eis um link para o google: [link](www.google.com).
+Eis um link para o google: [link](http://www.google.com).
 
 Ok, tchau!
