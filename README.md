@@ -15,6 +15,13 @@ Depois, precisamos fazer mais coisas em:
  * TypeScript
  * Alguma outra linguagem...
 
+Um exemplo de código:
+```
+x = 10
+x += 1
+print x
+```
+
 Eis um link para o google: [link](http://www.google.com).
 
 Ok, tchau!
