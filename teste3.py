@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 #-*- coding:utf-8 -*-
 
+
 print "Digite uma string:"
 s = raw_input()
 
